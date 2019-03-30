@@ -3641,6 +3641,17 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
+      <Game>Mafia: The City of Lost Heaven</Game>
+    </Games>
+    <URLs>
+      <URL>https://gist.githubusercontent.com/TheShaltys/326d566fe698c0ef61c10def6dc9287a/raw/96117d17ae8fa59e0545f1735f8ed5a629dfe21d/Mafia%2520FRE%2520Autosplitter.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitting FRE is available. (By TheShalty)</Description>
+    <Website>https://gist.github.com/TheShaltys</Website>
+  </AutSplitter>
+  <AutoSplitter>
+    <Games>
       <Game>Mafia II</Game>
     </Games>
     <URLs>
